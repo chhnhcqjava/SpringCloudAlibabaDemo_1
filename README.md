@@ -1,2 +1,3 @@
 #微服务学习过程
-- 搭建基础框架完成SpringBoot+Nacos+Dubbo实现服务注册与发现功能。2020/10/29
+SpringCloudAlibaba+Nacos入门级教程：动态刷新配置
+
